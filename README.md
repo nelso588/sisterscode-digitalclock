@@ -1,1 +1,1 @@
-# Sister Code Digital Clock
+# Sisters Code - Digital CLock
